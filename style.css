@@ -11,7 +11,7 @@ body {
     padding-top: 80px;
     font-size: 60px;
     background-size: cover;
-    background-image: url(/Images/CapeCoast.jpg);
+    background-image: url(Images/CapeCoast.jpg);
 }
 h1 {
     font-family: "Knewave";
@@ -121,3 +121,4 @@ img {
     color: #FFF1CA;
     font-weight: 600;
 }
+
