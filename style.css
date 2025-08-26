@@ -1,0 +1,123 @@
+
+body {
+    margin: 0px;
+    color: #2D4F2B;
+    background: #FFF1CA;
+    
+}
+.hero {
+    text-align: center;
+    color: #FFF1CA;
+    padding-top: 80px;
+    font-size: 60px;
+    background-size: cover;
+    background-image: url(/Images/CapeCoast.jpg);
+}
+h1 {
+    font-family: "Knewave";
+    text-shadow: 3px 3px 2px #2D4F2B;
+    margin-bottom: 0px;
+}
+h2 {
+    font-family: "Knewave";
+    font-size: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+h3 {
+    font-family: "Inter", sans-serif;
+    font-size: 30px;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+    margin-top: 8px;
+
+}
+#p-hero {
+    text-shadow: 3px 3px 2px #2D4F2B;
+    color: #FFF1CA;
+    margin-top: 10px;
+    font-size: 50px;
+    text-align: center;
+}
+p {
+    color: #2D4F2B;
+    font-family: "Inter", sans-serif;
+    text-align: justify;
+}
+
+img {
+    border-radius: 50px;
+    width: 100%;
+}
+.btn {
+    background-color: #708A58;
+    color: #FFF1CA;
+    padding: 10px 50px;
+    font-family: "Inter", sans-serif;
+    text-transform: uppercase;
+    font-size: 15px;
+    border: none;
+    border-radius: 30px;
+    margin-top: 5px;
+}
+.btn:hover {
+    background-color: #2D4F2B;
+    cursor: pointer;
+}
+.activities {
+    text-align: center;
+    align-items: center;
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.activities-blocks {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 15px;
+
+}
+.activities-img {
+    width: 45%;
+    margin-right: 0px;
+}
+.activities-text {
+    width: 45%;
+    text-align: center;
+    border-radius: 30px;
+    padding: 10px 20px;
+}
+.activities-description {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.guide {
+    width: 400px;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+    text-align: center;
+    background-color: #2D4F2B;
+    color: #FFF1CA;
+    padding: 20px 20px;
+    padding-top: 5px;
+    border-radius: 30px;
+}
+.p-guide {
+    color: #FFF1CA;
+}
+#footer {
+    background-color: #2D4F2B;
+    color: #FFF1CA;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+#reddit {
+    color: #FFF1CA;
+    font-weight: 600;
+}
